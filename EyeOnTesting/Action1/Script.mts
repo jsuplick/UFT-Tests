@@ -10,12 +10,3 @@ Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2").Web
 Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2").Sync @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("EyeOnTesting - Orasi Software,").CloseAllTabs 
 
-safasdfasdf
-
-asdfasdf
-asdf
-as
-
-
-
-
