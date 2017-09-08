@@ -9,6 +9,6 @@ Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,").WebEd
 Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2").WebElement("Results For: Octane").Check CheckPoint("Results For: Octane") @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software, 2").WebElement("Results For: Octane")_;_script infofile_;_ZIP::ssf7.xml_;_
 Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2").Sync @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software,").Page("Search - Orasi Software,_2")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("EyeOnTesting - Orasi Software,").CloseAllTabs 
-Reporter.ReportEvent micFail, "Failure", "Test step has failed"
+'Reporter.ReportEvent micFail, "Failure", "Test step has failed"
 
 
