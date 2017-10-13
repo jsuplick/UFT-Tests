@@ -1,4 +1,5 @@
-﻿SAPGuiSession("Session").SAPGuiWindow("SAP Easy Access").Resize 129,23
+﻿'Sample SAP test
+SAPGuiSession("Session").SAPGuiWindow("SAP Easy Access").Resize 129,23
 SAPGuiSession("Session").SAPGuiWindow("SAP Easy Access").SAPGuiOKCode("OKCode").Set "VA11" @@ hightlight id_;_21_;_script infofile_;_ZIP::ssf1.xml_;_
 SAPGuiSession("Session").SAPGuiWindow("SAP Easy Access").SendKey ENTER @@ hightlight id_;_0_;_script infofile_;_ZIP::ssf1.xml_;_
 
