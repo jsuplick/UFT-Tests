@@ -11,4 +11,3 @@ Browser("HOME - Orasi Software,").Page("Contact Us - Orasi Software,").Frame("Fr
 Browser("Contact Us - Orasi Software,").Page("Contact Us - Orasi Software,").Frame("Frame").WebCheckBox("recaptcha-anchor").Set "On"
 Browser("HOME - Orasi Software,").Page("Contact Us - Orasi Software,").Frame("Frame").WebButton("Submit").Click
 Browser("HOME - Orasi Software,").Page("Contact Us - Orasi Software,").Frame("Frame_2").WebElement("Please correct the errors").Check CheckPoint("Please correct the errors below:")
-
