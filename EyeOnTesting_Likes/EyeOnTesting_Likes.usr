@@ -38,16 +38,10 @@ Version=14.1
 Database=
 File Content=
 Insight=
-SAP NWBC Desktop=
-SAP=
-SAPUI5=
-SAPWDJ=
-SAPWebExt=
 Windows Applications=
 TEA=
 Web=
 Windows Runtime=
-WPF=
 XML=
 
 [ExtraFiles]
