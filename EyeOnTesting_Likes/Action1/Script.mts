@@ -7,4 +7,4 @@ Browser("EyeOnTesting - Orasi Software").Page("EyeOnTesting - Orasi Software").W
 Browser("EyeOnTesting - Orasi Software").Page("EyeOnTesting - Orasi Software").WebElement("icon-fire").Click @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software,").Page("EyeOnTesting - Orasi Software, 2").WebElement("WebElement 2")_;_script infofile_;_ZIP::ssf15.xml_;_
 Browser("EyeOnTesting - Orasi Software").Page("EyeOnTesting - Orasi Software").WebElement("icon-thumbs-up").Click
 Reporter.ReportEvent micPass, "Verify sorting", "Sorting worked correctly"
-Browser("EyeOnTesting - Orasi Software").CloseAllTabs 
+Browser("EyeOnTesting - Orasi Software").CloseAllTabs    
