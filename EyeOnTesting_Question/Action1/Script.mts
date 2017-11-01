@@ -2,7 +2,7 @@
 'Stored in GitHub repo UFT-Tests
 '
 'Browser("EyeOnTesting - Orasi Software").Page("EyeOnTesting - Orasi Software").WebElement("Ask a question").Click
-Browser("EyeOnTesting - Orasi Software").InsightObject("InsightObject").Click
+Browser("EyeOnTesting - Orasi Software").Navigate "http://eyeontesting.com/questions/ask.html"
 Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("title").Set "How do I ...." @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("title")_;_script infofile_;_ZIP::ssf9.xml_;_
 Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("body").Set "How do I ask a question?" @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("body")_;_script infofile_;_ZIP::ssf10.xml_;_
 Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("WebEdit").Set "Enter topics..." @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit("WebEdit")_;_script infofile_;_ZIP::ssf11.xml_;_
