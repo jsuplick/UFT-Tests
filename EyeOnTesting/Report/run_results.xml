@@ -10,7 +10,7 @@
     <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (2 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (2 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
 micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
 name=EyeOnTesting - Orasi Software, Inc.&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;title=EyeOnTesting - Orasi Software, Inc.&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openurl=http://eyeontesting.com/index.html&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;opentitle=EyeOnTesting - Orasi Software, Inc.&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hasstatusbar=0&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hasmenubar=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hastoolbar=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;number of tabs=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
-    <StartTime>2017-08-18 12:15:12</StartTime>
+    <StartTime>2017-12-08 10:42:46</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -25,7 +25,7 @@ name=EyeOnTesting - Orasi Software, Inc.&lt;SPAN class=passed&gt; (Used&lt;/SPAN
 micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
 name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>title=EyeOnTesting - Orasi Software, Inc.<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openurl=http://eyeontesting.com/index.html<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>opentitle=EyeOnTesting - Orasi Software, Inc.<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hasstatusbar=0<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hasmenubar=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hastoolbar=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openedbytestingtool=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>number of tabs=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
       </TestObject>
-      <IconKey>75dfda372521430ead0edf711e63e6ef</IconKey>
+      <IconKey>2780615d4c054561b6865dd2d356baeb</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -35,7 +35,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>q.Set</Name>
     <Description>"Octnae"</Description>
-    <StartTime>2017-08-18 12:15:12</StartTime>
+    <StartTime>2017-12-08 10:42:46</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -71,7 +71,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>684fa85e65ac41bc9881287fa78934b7</IconKey>
+      <IconKey>2f51c221c1a34b09b508ca0b3f9d64b3</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -80,7 +80,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>q.Submit</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:12</StartTime>
+    <StartTime>2017-12-08 10:42:46</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -115,7 +115,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>684fa85e65ac41bc9881287fa78934b7</IconKey>
+      <IconKey>2f51c221c1a34b09b508ca0b3f9d64b3</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -123,7 +123,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>EyeOnTesting - Orasi Software,</Name>
     <Description>Page</Description>
-    <StartTime>2017-08-18 12:15:12</StartTime>
+    <StartTime>2017-12-08 10:42:46</StartTime>
     <Duration>10</Duration>
     <Result>Done</Result>
     <Extension>
@@ -141,7 +141,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <OperationData><![CDATA[Page]]></OperationData>
       </TestObject>
-      <IconKey>902b9269785f499996d88ac5d95c9314</IconKey>
+      <IconKey>4719406f327f45e0b5a1809026d065da</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -151,7 +151,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Results For: Octnae0Results.Click</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:22</StartTime>
+    <StartTime>2017-12-08 10:42:56</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -186,7 +186,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>106a8e10e3f14dc7ad07995803998cc6</IconKey>
+      <IconKey>103e821f6d91476f89e38952a663ef25</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -196,7 +196,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>"0Results Found"</Name>
     <Description> </Description>
-    <StartTime>2017-08-18 12:15:22</StartTime>
+    <StartTime>2017-12-08 10:42:57</StartTime>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -242,7 +242,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </Checkpoint>
-      <IconKey>106a8e10e3f14dc7ad07995803998cc6</IconKey>
+      <IconKey>103e821f6d91476f89e38952a663ef25</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -250,7 +250,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>0Results Found</Name>
     <Description>WebElement</Description>
-    <StartTime>2017-08-18 12:15:22</StartTime>
+    <StartTime>2017-12-08 10:42:57</StartTime>
     <Duration>0</Duration>
     <Result>Passed</Result>
     <Extension>
@@ -282,7 +282,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>106a8e10e3f14dc7ad07995803998cc6</IconKey>
+      <IconKey>103e821f6d91476f89e38952a663ef25</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -291,7 +291,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>q.Set</Name>
     <Description>"Octane"</Description>
-    <StartTime>2017-08-18 12:15:22</StartTime>
+    <StartTime>2017-12-08 10:42:57</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -327,7 +327,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>684fa85e65ac41bc9881287fa78934b7</IconKey>
+      <IconKey>2f51c221c1a34b09b508ca0b3f9d64b3</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -336,7 +336,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>q.Submit</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:22</StartTime>
+    <StartTime>2017-12-08 10:42:57</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -371,7 +371,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>684fa85e65ac41bc9881287fa78934b7</IconKey>
+      <IconKey>2f51c221c1a34b09b508ca0b3f9d64b3</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -379,8 +379,8 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Search - Orasi Software,</Name>
     <Description>Page</Description>
-    <StartTime>2017-08-18 12:15:22</StartTime>
-    <Duration>4</Duration>
+    <StartTime>2017-12-08 10:42:56</StartTime>
+    <Duration>5</Duration>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -397,7 +397,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <OperationData><![CDATA[Page]]></OperationData>
       </TestObject>
-      <IconKey>902b9269785f499996d88ac5d95c9314</IconKey>
+      <IconKey>4719406f327f45e0b5a1809026d065da</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -408,7 +408,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>"Results For: Octane"</Name>
     <Description> </Description>
-    <StartTime>2017-08-18 12:15:26</StartTime>
+    <StartTime>2017-12-08 10:43:01</StartTime>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -454,7 +454,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </Checkpoint>
-      <IconKey>106a8e10e3f14dc7ad07995803998cc6</IconKey>
+      <IconKey>103e821f6d91476f89e38952a663ef25</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -462,8 +462,8 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Results For: Octane</Name>
     <Description>WebElement</Description>
-    <StartTime>2017-08-18 12:15:26</StartTime>
-    <Duration>0</Duration>
+    <StartTime>2017-12-08 10:43:01</StartTime>
+    <Duration>1</Duration>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -494,7 +494,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>106a8e10e3f14dc7ad07995803998cc6</IconKey>
+      <IconKey>103e821f6d91476f89e38952a663ef25</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -503,7 +503,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Search - Orasi Software,_2.Sync</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:26</StartTime>
+    <StartTime>2017-12-08 10:43:02</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -520,7 +520,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <Operation>Sync</Operation>
       </TestObject>
-      <IconKey>902b9269785f499996d88ac5d95c9314</IconKey>
+      <IconKey>4719406f327f45e0b5a1809026d065da</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -528,8 +528,8 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Search - Orasi Software,_2</Name>
     <Description>Page</Description>
-    <StartTime>2017-08-18 12:15:26</StartTime>
-    <Duration>0</Duration>
+    <StartTime>2017-12-08 10:43:01</StartTime>
+    <Duration>1</Duration>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -546,7 +546,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <OperationData><![CDATA[Page]]></OperationData>
       </TestObject>
-      <IconKey>902b9269785f499996d88ac5d95c9314</IconKey>
+      <IconKey>4719406f327f45e0b5a1809026d065da</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -555,7 +555,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>EyeOnTesting - Orasi Software,.Close All Tabs</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:26</StartTime>
+    <StartTime>2017-12-08 10:43:02</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -568,7 +568,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <Operation>Close All Tabs</Operation>
       </TestObject>
-      <IconKey>e9ae72eadd1341f2ad139c9c2069e034</IconKey>
+      <IconKey>aff478c6fcb842aba676481bba98cc1b</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -576,8 +576,8 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>EyeOnTesting - Orasi Software,</Name>
     <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
-    <StartTime>2017-08-18 12:15:12</StartTime>
-    <Duration>14</Duration>
+    <StartTime>2017-12-08 10:42:46</StartTime>
+    <Duration>17</Duration>
     <Result>Passed</Result>
     <Extension>
       <TestObject>
@@ -590,7 +590,7 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
         </Path>
         <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
       </TestObject>
-      <IconKey>e9ae72eadd1341f2ad139c9c2069e034</IconKey>
+      <IconKey>aff478c6fcb842aba676481bba98cc1b</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -598,12 +598,12 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:11</StartTime>
-    <Duration>15</Duration>
+    <StartTime>2017-12-08 10:42:46</StartTime>
+    <Duration>17</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>00cd6bf83b8d40eb8138203af564fdf2</IconKey>
+      <IconKey>1e33ded8ce6144b1bc3bde5026a740dc</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -611,11 +611,11 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2017-08-18 12:15:05</StartTime>
-    <Duration>21</Duration>
+    <StartTime>2017-12-08 10:42:39</StartTime>
+    <Duration>24</Duration>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>085d2d2c41514b738d9f70dbe203f7f1</IconKey>
+      <IconKey>0b361053fa444d83adbf7c7fecaa1d54</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -637,21 +637,21 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 <Data>
     <Name>EyeOnTesting</Name>
     <ToolName>HPE Unified Functional Testing</ToolName>
-    <ToolVersion>14.1</ToolVersion>
+    <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2017-08-18 12:15:04</StartTime>
-    <Duration>22</Duration>
+    <StartTime>2017-12-08 10:42:39</StartTime>
+    <Duration>24</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>3bd0928c26594121a8fedc2393dc47c5</IconKey>
+      <IconKey>a1b748677a5845acb2703520b757d6dd</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
-      <Timezone>-05:00:00</Timezone>
+      <Timezone>-06:00:00</Timezone>
       <Locale>English (United States)</Locale>
       <User>OrasiSA</User>
-      <CpuInfo>Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz</CpuInfo>
+      <CpuInfo>Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz</CpuInfo>
       <NumberOfCores>4</NumberOfCores>
       <TotalMemory>6147</TotalMemory>
       <HostName>ADMCLIENT</HostName>
@@ -665,9 +665,9 @@ name=EyeOnTesting - Orasi Software, Inc.<SPAN class=passed> (Used</SPAN>, 1 matc
 </ReportNode>
 <GeneralInfo>
     <ResultName>EyeOnTesting</ResultName>
-    <RunStartTime>2017-08-18 12:15:04</RunStartTime>
-    <Timezone>-05:00:00</Timezone>
+    <RunStartTime>2017-12-08 10:42:39</RunStartTime>
+    <Timezone>-06:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
-    <OrchestrationToolVersion>14.1</OrchestrationToolVersion>
+    <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
   </GeneralInfo>
 </Results>
