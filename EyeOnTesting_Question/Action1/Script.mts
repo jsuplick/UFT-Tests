@@ -11,6 +11,4 @@ Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebEdit(
 Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").Frame("Frame").WebCheckBox("recaptcha-anchor").Set "ON" @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").Frame("Frame").WebCheckBox("recaptcha-anchor")_;_script infofile_;_ZIP::ssf14.xml_;_
 Reporter.ReportEvent micPass, "Captcha", "Captcha worked" @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software").Page("Ask a Question - Orasi").WebElement("WebElement 2")_;_script infofile_;_ZIP::ssf13.xml_;_
 Browser("EyeOnTesting - Orasi Software").CloseAllTabs 
-
-
  @@ hightlight id_;_1_;_script infofile_;_ZIP::ssf9.xml_;_
